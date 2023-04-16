@@ -2,7 +2,7 @@
 ros packages
 
 
-## :pushpin: webcam_launcher use
+## :pushpin: webcam_launcher
 
 > Steps to use your computer's built-in camera in ROS.
 
