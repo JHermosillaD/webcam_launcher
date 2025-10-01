@@ -1,5 +1,11 @@
 # :pushpin: webcam_launcher
 
+Install 
+
+```console
+user@localhost:~$ sudo apt install libuvc-dev
+```
+
 > Steps to use your computer's built-in camera in ROS.
 
 1. Find the idVendor, idProduct and port path of your camera using `lsusb`
