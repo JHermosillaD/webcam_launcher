@@ -4,6 +4,7 @@ Install
 
 ```console
 user@localhost:~$ sudo apt install libuvc-dev
+user@localhost:~$ sudo apt-get install ros-noetic-libuvc-camera
 ```
 
 > Steps to use your computer's built-in camera in ROS.
